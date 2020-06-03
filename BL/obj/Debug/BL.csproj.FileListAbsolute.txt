@@ -1,0 +1,11 @@
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\BL.dll
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\BL.pdb
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\DAL.dll
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\ET.dll
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\DAL.pdb
+C:\Users\JULIO\source\repos\ApiTest\BL\bin\Debug\ET.pdb
+C:\Users\JULIO\source\repos\ApiTest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\JULIO\source\repos\ApiTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\JULIO\source\repos\ApiTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\JULIO\source\repos\ApiTest\BL\obj\Debug\BL.dll
+C:\Users\JULIO\source\repos\ApiTest\BL\obj\Debug\BL.pdb

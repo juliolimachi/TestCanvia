@@ -1,0 +1,9 @@
+C:\Users\JULIO\source\repos\ApiTest\DAL\bin\Debug\DAL.dll
+C:\Users\JULIO\source\repos\ApiTest\DAL\bin\Debug\DAL.pdb
+C:\Users\JULIO\source\repos\ApiTest\DAL\bin\Debug\ET.dll
+C:\Users\JULIO\source\repos\ApiTest\DAL\bin\Debug\ET.pdb
+C:\Users\JULIO\source\repos\ApiTest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\JULIO\source\repos\ApiTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JULIO\source\repos\ApiTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\JULIO\source\repos\ApiTest\DAL\obj\Debug\DAL.dll
+C:\Users\JULIO\source\repos\ApiTest\DAL\obj\Debug\DAL.pdb

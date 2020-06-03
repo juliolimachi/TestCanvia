@@ -1,0 +1,6 @@
+C:\Users\JULIO\source\repos\ApiTest\ET\bin\Debug\ET.dll
+C:\Users\JULIO\source\repos\ApiTest\ET\bin\Debug\ET.pdb
+C:\Users\JULIO\source\repos\ApiTest\ET\obj\Debug\ET.csprojAssemblyReference.cache
+C:\Users\JULIO\source\repos\ApiTest\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\JULIO\source\repos\ApiTest\ET\obj\Debug\ET.dll
+C:\Users\JULIO\source\repos\ApiTest\ET\obj\Debug\ET.pdb
